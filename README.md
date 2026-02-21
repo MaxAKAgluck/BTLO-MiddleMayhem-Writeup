@@ -1,4 +1,4 @@
-<img width="1203" height="615" alt="image" src="https://github.com/user-attachments/assets/300badc7-d078-4232-9b0a-8165c246554f" /># BTLO-MiddleMayhem-Writeup
+# BTLO-MiddleMayhem-Writeup
 Middle Mayhem investigation BTLO Writeup
 
 Description:
